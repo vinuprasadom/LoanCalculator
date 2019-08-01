@@ -1,0 +1,50 @@
+body {
+	/*position: relative;*/
+	background-color: teal;
+	
+	
+}
+
+nav{
+	float: right;
+	background-color: #4CAF50;
+  	color: white;
+}
+.topnav {
+    background-color: #333;
+	overflow-x: hidden;
+	text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  box-sizing: border-box;
+  
+}
+#login1 {
+	/*width: 500px;*/
+	/*height: 300px;*/
+	/*background-position: center;*/
+	/*background-size: cover;*/
+	/*image-orientation: from-image;*/
+	/*image-resolution: 500px;*/
+	/*border-image-width: 500px;*/
+
+	
+	background-image: url("Login1.jpg");
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	/* font-weight: bold; */
+	font-size: 16px;
+	/* background-size: cover; */
+	/*text-align:  center;*/
+	color: teal;
+	width: 400px; /* this is needed */
+    height: 200px; /* this is needed */
+    padding: 10px; /* this is for styling only */
+    
+	position: absolute; /* this is needed */
+    margin: auto; /* this is needed */
+    left: 0; /* this is needed */
+    right: 0; /* this is needed */
+    top: 0; /* this is needed */
+	bottom: 0; /* this is needed */
+}
